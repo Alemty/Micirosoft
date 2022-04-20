@@ -4,7 +4,7 @@
 - 1.5 Billones de Dispositivos
 - 345 millones de dispositivos obsoletos (W7 W8 W10)
 
-### Por que los clientes no migran a Windows 11 ###
+### Por que los clientes no migran a Windows 11? ###
 - 38% aún usan Windows 10
 - 22% quieren esperar a ver que tan seguro es
 - 22% no estan seguros si su equipo cuenta con las caracteristicas
