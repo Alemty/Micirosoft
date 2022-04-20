@@ -21,3 +21,20 @@
 - Lanzamiento en 2012
 - 11% de dispositivos obsoletos
 
+### Windows 10 ###
+- Lanzamiento en 2015
+- 63% de dispositivos obsoletos
+
+## Windows 11 Home ## 
+- Funciones de seguridad integradas
+- Escanea tu rostro o huella dactilar con Windows Hello
+- El modo concentración proporciona tiempo de trabajo sin dstracciones
+- Los accesos rápidos proporcionan una forma rapida de acceder a los archivos recientes
+- Microsoft Fotos simplifica las fotos y videos
+- Transmite al instante partidos en directo y mucho más con Game Bar
+
+## Windows 11 PRO ##
+### Qué necesitan los profesionales? ###
+- Protecciones integradas, incluido Bitclocker
+- Entornos Virtuales
+
